@@ -1,5 +1,3 @@
-Compiling and Running:
-
 Compile: make
 
 Insert Module: make insmod        OR           sudo insmod process_list.ko
@@ -10,6 +8,4 @@ Remove Module: make rmmod          OR          sudo rmmod process_list
 
 
 Thanks,
-Nishant Hemantkumar Shah
-nshah27
-B00659531
+Nishant
