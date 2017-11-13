@@ -9,9 +9,9 @@ Program to recursively create a process hierarchy tree with positive height wher
 Systematically terminate all the processes in the tree. 
 This project is implemented using Linux system calls on Google Cloud Platform (GCP).
 
-## Strassen's Matrix Multiplication and Tromino Tiling (Divide and Conquer Algorithms):
-Strassen's Matrix Multiplication Algorithm supports all kind of positive legitimate inputs and decreases the time complexity for the Multiplication of Matrices
-Tromino Tiling Algorithm solves the tiling problem very efficiently
+## Character Device Kernel Module - Linux / C (Google Cloud Platform)
+Implementation of a kernel module that creates character device that supports the read() operation
+When the read() system call is invoked on the character device from a user space process, the kernel module returns the information of all currently running processes (process ID, parent process ID, the CPU on which the process is running, its current state)
 
 ## Knapsack and Dijkstra (Dynamic programming and Greedy Algorithms):
 Implemented Knapsack Algorithms by using both Greedy and Dynamic programming
